@@ -1,8 +1,8 @@
 import {NgModule, Optional, SkipSelf} from '@angular/core';
 import {CommonModule}  from '@angular/common';
-import {HttpModule} from "@angular/http";
-import {ApiService} from "./services/api.service";
-import {FormsModule} from "@angular/forms";
+import {HttpModule} from '@angular/http';
+import {ApiService} from './services/api.service';
+import {FormsModule} from '@angular/forms';
 
 @NgModule({
     imports: [
